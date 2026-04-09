@@ -1,0 +1,15 @@
+# --- Backend ---
+backend/node_modules/
+backend/.env
+backend/uploads/
+
+# --- Frontend ---
+frontend/node_modules/
+frontend/.expo/
+frontend/dist/
+frontend/web-build/
+
+# --- System & Misc ---
+.DS_Store
+*.log
+.vscode/
